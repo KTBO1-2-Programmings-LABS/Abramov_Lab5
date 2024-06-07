@@ -1,0 +1,3 @@
+C:\VS\ALab_5\ALab_5\x64\Debug\ALab_5.vcxproj.AssemblyReference.cache
+C:\VS\ALab_5\ALab_5\x64\Debug\ALab5.Lab5.resources
+C:\VS\ALab_5\ALab_5\x64\Debug\ALab_5.vcxproj.GenerateResource.cache
